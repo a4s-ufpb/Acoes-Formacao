@@ -4,7 +4,7 @@
 
 # Ações de Formação Apps4Society
 
-Catálogo das ações de formação realizadas pelos integrantes do Apps4Society.
+Catálogo das ações de formação realizadas pelos integrantes do Apps4Society. Para saber como fazer alterações neste repositório clique [aqui!](github.com/a4s-ufpb/Acoes-Formacao/)
 
 ### Índice Remissivo:
 - [Introdução ao REST](https://github.com/a4s-ufpb/Acoes-Formacao/tree/master/Introducao-a-REST)
@@ -15,6 +15,8 @@ Catálogo das ações de formação realizadas pelos integrantes do Apps4Society
  - [Curso básico de Android](https://github.com/a4s-ufpb/Acoes-Formacao/tree/master/Android-basico)
  - [Introdução a UX](https://github.com/a4s-ufpb/Acoes-Formacao/tree/master/Introducao-a-UX)
  - [Introdução ao Material Design](https://github.com/a4s-ufpb/Acoes-Formacao/tree/master/Material-design)
+
+
 
 ## Resumo das ações:
 
