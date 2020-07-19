@@ -4,7 +4,7 @@
 
 # Ações de Formação Apps4Society
 
-Catálogo das ações de formação realizadas pelos integrantes do Apps4Society. Para saber como fazer alterações neste repositório clique [aqui!](github.com/a4s-ufpb/Acoes-Formacao/)
+Catálogo das ações de formação realizadas pelos integrantes do Apps4Society. Para saber como fazer alterações neste repositório clique [aqui!](https://github.com/a4s-ufpb/Acoes-Formacao/tree/master/Como-fazer-alteracoes-neste-repositorio)
 
 ### Índice Remissivo:
 - [Introdução ao REST](https://github.com/a4s-ufpb/Acoes-Formacao/tree/master/Introducao-a-REST)
