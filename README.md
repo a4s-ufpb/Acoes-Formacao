@@ -4,6 +4,13 @@
 
 # Ações de Formação Apps4Society
 
+
+[![Type Badge](https://img.shields.io/badge/project%3A-Apps4Society-informational)](#)
+[![Type Badge](https://img.shields.io/badge/type%3A-Documentation%20-green)](#)
+
+
+
+
 Catálogo das ações de formação realizadas pelos integrantes do Apps4Society. Para saber como fazer alterações neste repositório clique [aqui!](https://github.com/a4s-ufpb/Acoes-Formacao/wiki/Como-fazer-altera%C3%A7%C3%B5es-neste-reposit%C3%B3rio%3F)
 
 ### Índice Remissivo:
