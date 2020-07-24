@@ -30,4 +30,4 @@ Sistemas de Informações - UFPB
 </br>
 
 --- 
-#### Caso algum dos links acima não estiver mais disponível, você poderá fazer o download de cada material (de forma indívidual) clicando [aqui!](https://github.com/a4s-ufpb/Acoes-Formação/Android-basico) ou fazer o download de tudo clicando [aqui!](https://drive.google.com/file/d/1EYQVyTDV_LaA39JhftrAm2zF_SFoGtPv/view?usp=sharing).
+#### Caso algum dos links acima não estiver mais disponível, você poderá fazer o download de cada material (de forma indívidual) clicando [aqui!](https://github.com/a4s-ufpb/Acoes-Formacao/Android-basico) ou fazer o download de tudo clicando [aqui!](https://drive.google.com/file/d/1EYQVyTDV_LaA39JhftrAm2zF_SFoGtPv/view?usp=sharing).
