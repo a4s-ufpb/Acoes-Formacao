@@ -50,7 +50,7 @@ Esta ação foi desenvolvida por Ayla Rebouças ([@ayladebora](https://github.co
 
 ### [MIT App Inventor 2 - Acessando dados remotos com API](https://github.com/a4s-ufpb/Acoes-Formacao/tree/master/MIT-App-Inventor/Acessando-dados-remotos-com-API)
 
-Esta ação foi desenvolvida por Drayon Duarte [@drayonrichard](https://github.com/drayonrichard). Neste minicurso introdutório é apresentado como criar um aplicativo no App Inventor capaz de acessar dados remotos por meio de uma API.
+Esta ação foi desenvolvida por Drayon Duarte [(@drayonrichard)](https://github.com/drayonrichard). Neste minicurso introdutório é apresentado como criar um aplicativo no App Inventor capaz de acessar dados remotos por meio de uma API.
 	
 ### [Curso básico de Android](https://github.com/a4s-ufpb/Acoes-Formacao/tree/master/Android-basico)
 
