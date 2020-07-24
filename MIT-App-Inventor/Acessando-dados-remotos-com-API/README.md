@@ -15,8 +15,8 @@ L. Ciência da Computação - UFPB
 
 ### Sequência do curso
 
-| Nº da Aula | Conteúdo Abordado | Link da Vídeo Aula | Material |
-| -- | -- | -- | -- |
+| Nº da Aula | Conteúdo Abordado | Link da Vídeo Aula |
+| -- | -- | -- |
 | Aula 1 - Acessando dados remotos com API (parte 1) | --- | [Vídeo da aula ](https://youtu.be/1x0PIwfcWn8?list=PLA1WSz1RPFpLBP4GQ5Ywr-4vgt5tu7cPT) | 
 | Aula 2 - Acessando dados remotos com API (parte 2) | --- | [Vídeo da aula ](https://youtu.be/PesgPnNINCc?list=PLA1WSz1RPFpLBP4GQ5Ywr-4vgt5tu7cPT) | 
 | Aula 3 - Acessando dados remotos com API (parte 3) | --- | [Vídeo da aula ](https://youtu.be/4EFmYOeekFg?list=PLA1WSz1RPFpLBP4GQ5Ywr-4vgt5tu7cPT) | 
