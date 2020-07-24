@@ -26,4 +26,8 @@ Sistemas de Informações - UFPB
 | Aula 8 - Tela de Jogo (parte 3) | --- | [Vídeo da aula ]( https://www.youtube.com/watch?v=fW5v6fDpDwc&list=PLvvprU6lfoKhxuKOhV-RfEq0-6fV5NVsF&index=8) | --- |
 | Aula 9 - Toque para Falar | --- | [Vídeo da aula ]( https://www.youtube.com/watch?v=fW5v6fDpDwc&list=PLvvprU6lfoKhxuKOhV-RfEq0-6fV5NVsF&index=9) | --- |
 
+
+</br>
+
+--- 
 #### Caso algum dos links acima não estiver mais disponível, você poderá fazer o download de cada material (de forma indívidual) clicando [aqui!](https://github.com/a4s-ufpb/Acoes-Formação/Android-basico) ou fazer o download de tudo clicando [aqui!](https://drive.google.com/file/d/1EYQVyTDV_LaA39JhftrAm2zF_SFoGtPv/view?usp=sharing).
