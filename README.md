@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/a4s-ufpb/Designs/blob/master/logo_slogan.png" />
+  <img src="https://github.com/a4s-ufpb/Acoes-Formacao/blob/master/Logo-a4s/official_logo.png" />
 </p>
 
 # Ações de Formação Apps4Society
